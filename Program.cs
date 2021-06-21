@@ -6,7 +6,7 @@ namespace myApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Github  This is Demo Git with Code ");
+            Console.WriteLine("Hello Githubs  This is Demo Git with Code ");
         }
     }
 }
